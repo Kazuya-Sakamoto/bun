@@ -1,5 +1,5 @@
 # bun 
-公式ドキュメント: https://bun.sh/
+[official documentation](https://bun.sh/)
 
 I have conducted a simple speed comparison of the JavaScript runtime called Bun. Hopefully, this can be helpful for someone. <br/>
 
@@ -40,7 +40,8 @@ It includes a built-in bundler, replacing the need for external tools like Webpa
 Bun incorporates a test runner similar to Jest and automatically loads environment variables without requiring additional installations of packages like dotenv.
 ```
 
-引用: https://refine.dev/blog/bun-js-vs-node/#why-is-bun-fast
+Quote: 
+- https://refine.dev/blog/bun-js-vs-node/#why-is-bun-fast
 
 
 ## install
