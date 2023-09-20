@@ -1,6 +1,9 @@
 # bun 
 [official documentation](https://bun.sh/)
 
+![0ba6e1a41a03fb92086647290290690247c17c84_2_1024x535](https://github.com/Kazuya-Sakamoto/bun/assets/56709557/02dc252d-8449-4280-8497-f4b31346c6eb)
+
+
 I have conducted a simple speed comparison of the JavaScript runtime called Bun. Hopefully, this can be helpful for someone. <br/>
 
 I compared three package managers: Yarn, npm, and Bun, in terms of speed when installing new packages, building the project, starting the development environment, and hot reloading. <br/>
