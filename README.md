@@ -1,9 +1,17 @@
 # bun 
 公式ドキュメント: https://bun.sh/
 
-**Bun is a fast JavaScript all-in-one toolkit**
+I have conducted a simple speed comparison of the JavaScript runtime called Bun. Hopefully, this can be helpful for someone. <br/>
+
+I compared three package managers: Yarn, npm, and Bun, in terms of speed when installing new packages, building the project, starting the development environment, and hot reloading. <br/>
+
+Keep in mind that these measurements were taken in a local environment,
+so the exact numbers may vary depending on your PC's specifications. However, I hope this provides some useful insights for reference.<br/>
+
 
 ### setup
+
+**Bun is a fast JavaScript all-in-one toolkit**
 
 ```console
 $ curl https://bun.sh/install | bash
